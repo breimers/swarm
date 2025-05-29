@@ -1,0 +1,4 @@
+openai-agents
+requests
+pandas
+psycopg2-binary
